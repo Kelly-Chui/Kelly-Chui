@@ -1,4 +1,4 @@
-최진원(崔鎭原, Jinwon-Choi)
+# 최진원(Jinwon-Choi)
 
 Kelly Chui
 
