@@ -1,4 +1,4 @@
-# Jinwon-Choi
+# Jin-won Choi
 
 Kelly Chui
 
