@@ -14,3 +14,15 @@ Swift를 현재 공부중 입니다.
 Kelly-Chui/Kelly-Chui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Projects
+
+##### Apple Developer Academy @POSTECH
+
+Naiyagara(AgePlzGogo), Jigok-dong Echo
+Nano Challenge1, Kelly's
+
+##### Catholic University of Korea
+
+Signal Processing Laboratory, Smart-CCTV
+Signal Processing Laboratory, Hardware Implementation of Bicubic Interpolation and CNN-based Postprocessing
