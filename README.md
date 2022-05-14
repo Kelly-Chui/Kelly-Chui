@@ -20,9 +20,11 @@ You can click the Preview link to take a look at your changes.
 ##### Apple Developer Academy @POSTECH
 
 Naiyagara(AgePlzGogo), Jigok-dong Echo
+
 Nano Challenge1, Kelly's
 
 ##### Catholic University of Korea
 
 Signal Processing Laboratory, Smart-CCTV
+
 Signal Processing Laboratory, Hardware Implementation of Bicubic Interpolation and CNN-based Postprocessing
