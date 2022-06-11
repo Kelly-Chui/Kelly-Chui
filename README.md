@@ -25,3 +25,4 @@ You can click the Preview link to take a look at your changes.
 [Naiyagara(AgePlzGogo), Jigok-dong Echo](https://github.com/DeveloperAcademy-POSTECH/Jigokdong-Echo)  
 [Nano Challenge1, Kelly's](https://github.com/Kelly-Chui/NC1-Kellys)  
 
+##### Team Wuk & Chui
