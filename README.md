@@ -1,15 +1,6 @@
 # Jin-won Choi
 Kelly Chui
 
-Apple Developer Academy @POSTECH  
-Mar 2022 - Dec 2022  
-  
-Catholic University of Korea  
-Mar 2016 - Feb 2022  
-  
-Incheon Kyeyang HighSchool  
-Mar 2013 - Feb 2016  
-
 ### Tech Stack
 
 C/C++, JAVA, Python, Swift
