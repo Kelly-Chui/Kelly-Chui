@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Teams
 
-Team Wuk & Chui  
+Team Uk & Chui  
 Apple Developer Academy @POSTECH  
 CUK Signal Processing Laboratory
