@@ -3,7 +3,7 @@ Kelly Chui
 
 ## Tech Stack
 
-C/C++, JAVA, Python, Swift
+C/C++, Python, Swift
 
 
 ## Papers
