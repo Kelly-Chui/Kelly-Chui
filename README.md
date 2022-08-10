@@ -1,19 +1,6 @@
 # Jin-won Choi
 Kelly Chui
 
-## Tech Stack
-
-- C/C++
-- Python
-- Swift
-
-- Frameworks
-  - ML/DL
-    - PyTorch
-    - TensorFlow
-  - Apple
-    - SwiftUI
-
 ## Papers
 
 - SCOPUS
