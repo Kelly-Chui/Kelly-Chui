@@ -7,6 +7,12 @@ Kelly Chui
 - Python
 - Swift
 
+- Frameworks
+  - ML/DL
+    - PyTorch
+    - TensorFlow
+  - Apple
+    - SwiftUI
 
 ## Papers
 
