@@ -1,5 +1,5 @@
 # Jin-won Choi
-Kelly Chui
+Kelly Chui  
 Major in Electronic Engineering
 
 ## Papers
@@ -12,13 +12,14 @@ Major in Electronic Engineering
 
 ## Awards
 - 제 1회 가톨릭대학교 데이터 분석 경진대회, 최우수상
-- 정보통신전자공학부 2020년 학술연구 장학생, 최우수 선발
+- 정보통신전자공학부 2020년 학술연구 장학생, 최우수
 
 ## Experience
 
-- Apple Developer Academy @POSTECH (Mar 2022 ~ Dec 2022)
-- 가톨릭대학교 SOS Class JAVA 멘토 (Sep 2021 ~ Dec 2021)
-- 가톨릭대학교 신호처리연구실 학부연구원 (Sep 2019 ~ Feb 2022)
+- 애플 개발자 아카데미 @POSTECH (2022.03 ~ 2022.12)
+- 가톨릭대학교 SOS Class JAVA 튜터 (2021.09 ~ 2021.12)
+- 가톨릭대학교 신호처리연구실 학부연구원 (2019.09 ~ 2022.02)
+- 가톨릭대학교 정보통신전자공학부 학사 (2016.03 ~ 2022.02)
 
 <!---
 Kelly-Chui/Kelly-Chui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
