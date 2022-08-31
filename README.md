@@ -2,6 +2,17 @@
 Kelly Chui  
 Major in Electronic Engineering
 
+## Tech Stacks
+- Languages
+  - Swift
+  - Python
+  - C/C++
+- AI FrameKit
+  - Pytorch
+  - TensorFlow
+- Tools
+  - Adobe Photoshop
+
 ## Papers
 
 - SCOPUS
