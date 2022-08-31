@@ -21,7 +21,7 @@ Major in Electronic Engineering
  - Thesis
     - [Real-time FPGA-based architecture for bicubic interpolation and Postprocessing with U-Net](https://drive.google.com/file/d/1tuHRSTJKhSXRtWT7QugGLygaAHf6IuwN/view)
 
-## Awards
+## Prize
 - 제 1회 가톨릭대학교 데이터 분석 경진대회, 최우수상
 - 정보통신전자공학부 2020년 학술연구 장학생, 최우수
 
