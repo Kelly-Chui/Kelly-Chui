@@ -2,14 +2,6 @@
 Kelly Chui  
 Major in Electronic Engineering
 
-## Tech Stacks
-- Languages
-    - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/>
-- AI Framework
-    - <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-- Tools
-  - <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=black"/>
-
 ## Papers
 
 - SCOPUS
@@ -17,17 +9,6 @@ Major in Electronic Engineering
   - [Image denoising Method based on DL using Improved U-Net](https://paper.cricit.kr/user/listview/ieie2018/cart_rdoc.asp?URL=files/ieietspc_202108_001.pdf%3Fnum%3D408033%26db%3DRD_R&dn=408033&db=RD_R&usernum=0&seid=)
  - Thesis
     - [Real-time FPGA-based architecture for bicubic interpolation and Postprocessing with U-Net](https://drive.google.com/file/d/1tuHRSTJKhSXRtWT7QugGLygaAHf6IuwN/view)
-
-## Prize
-- 제 1회 가톨릭대학교 데이터 분석 경진대회, 최우수상
-- 정보통신전자공학부 2020년 학술연구 장학생, 최우수
-
-## Experience
-
-- 애플 디벨로퍼 아카데미 @POSTECH (2022.03 ~ 2022.12)
-- 가톨릭대학교 SOS Class JAVA 튜터 (2021.09 ~ 2021.12)
-- 가톨릭대학교 신호처리연구실 학부연구원 (2019.09 ~ 2022.02)
-- 가톨릭대학교 정보통신전자공학부 학사 (2016.03 ~ 2022.02)
 
 <!---
 Kelly-Chui/Kelly-Chui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
