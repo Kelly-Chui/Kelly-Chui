@@ -2,8 +2,6 @@
 Kelly Chui  
 Major in Electronic Engineering
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Chui&layout=compact&theme=dark)
-
 ## Papers
 
 - SCOPUS
