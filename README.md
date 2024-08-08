@@ -2,7 +2,7 @@
 Kelly Chui  
 
 ### Published Works
-**iOS Application**
+**iOS Applications**
 - NemoNemo | [AppStore](https://apps.apple.com/kr/app/네모네모/id6444035444), [GitHub](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO)
 - 대구 착한 가격 업소 | [AppStore](https://apps.apple.com/kr/app/대구-착한-가격/id1635261511), [GitHub](https://github.com/DeveloperAcademy-POSTECH/MC3-Team15-DaeguGoodPriceShop)
 
