@@ -18,8 +18,6 @@ Kelly Chui
 |2021.08. - 2021.12.|SOS Class JAVA 튜터링 튜터|[가톨릭대 교수학습개발원](https://ctl.catholic.ac.kr/ctl/index.do)|
 |2019.09. - 2022.02.|가톨릭대학교 신호처리연구실 학부연구원|[가톨릭대 신호처리연구실](https://ice.catholic.ac.kr/ice/graduate/video-signal.do)|
 
-[![https://solved.ac/profile/jjwls97](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjwls97)](https://solved.ac/jjwls97)
-
 <!---
 Kelly-Chui/Kelly-Chui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
