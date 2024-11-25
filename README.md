@@ -13,10 +13,10 @@ Kelly Chui
 ### Activities
 |Period|Contents|Organization|
 |:-:|---|:-:|
-|2024.06. - |Naver Boostcamp Web・Mobile 9th|[Naver Connect](https://boostcamp.connect.or.kr)|
-|2022.03. - 2022.12.|Apple Developer Academy @ POSTECH|[Apple](https://developeracademy.postech.ac.kr)|
-|2021.08. - 2021.12.|SOS Class JAVA 튜터링 튜터|[가톨릭대 교수학습개발원](https://ctl.catholic.ac.kr/ctl/learning-support/curriculum_tutoring.do)|
-|2019.09. - 2022.02.|가톨릭대학교 신호처리연구실 학부연구원|[가톨릭대 신호처리연구실](https://ice.catholic.ac.kr/ice/graduate/video-signal.do)|
+|06.2024 - |Naver Boostcamp Web・Mobile 9th|[Naver Connect](https://boostcamp.connect.or.kr)|
+|03.2022 - 12.2022|Apple Developer Academy @ POSTECH|[Apple](https://developeracademy.postech.ac.kr)|
+|08.2021 - 12.2021|SOS Class JAVA 튜터링 튜터|[가톨릭대 교수학습개발원](https://ctl.catholic.ac.kr/ctl/learning-support/curriculum_tutoring.do)|
+|09.2019 - 02.2022|가톨릭대학교 신호처리연구실 학부연구원|[가톨릭대 신호처리연구실](https://ice.catholic.ac.kr/ice/graduate/video-signal.do)|
 
 <!---
 Kelly-Chui/Kelly-Chui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
