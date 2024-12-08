@@ -1,12 +1,7 @@
-# Jin-won Choi
+# Jinwon Choi
 Kelly Chui  
 
 ### Published Works
-**iOS Applications**
-- NemoNemo | [AppStore](https://apps.apple.com/kr/app/네모네모/id6444035444), [GitHub](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO)
-- 대구 착한 가격 업소 | [AppStore](https://apps.apple.com/kr/app/대구-착한-가격/id1635261511), [GitHub](https://github.com/DeveloperAcademy-POSTECH/MC3-Team15-DaeguGoodPriceShop)
-
-**Papers**
 - [Image denoising Method based on DL using Improved U-Net](https://paper.cricit.kr/user/listview/ieie2018/cart_rdoc.asp?URL=files/ieietspc_202108_001.pdf%3Fnum%3D408033%26db%3DRD_R&dn=408033&db=RD_R&usernum=0&seid=) | SCOPUS
 - [Blind Image Deblurring based on Deep Image Prior](https://paper.cricit.kr/user/search/site/ieie2018/cart_rdoc.asp?URL=files/filename%3Fnum%3D412820%26db%3DRD_R&dn=412820&db=RD_R&usernum=0&seid=) | SCOPUS
 
